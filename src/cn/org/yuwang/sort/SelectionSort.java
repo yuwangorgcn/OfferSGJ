@@ -20,6 +20,7 @@ public class SelectionSort {
                 nums[minN]=temp;
             }
         }
+
         return nums;
     }
 }
