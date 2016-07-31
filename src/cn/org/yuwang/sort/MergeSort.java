@@ -24,7 +24,7 @@ public class MergeSort {
             }else {
                 temp[i++]=nums[highN++];
             }
-        }
+        } 
         while (lowN<=mid){
             temp[i++]=nums[lowN++];
         }
